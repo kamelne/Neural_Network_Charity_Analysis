@@ -9,3 +9,5 @@
 | Optimization 2  | 0.5579 | 0.7238   |
 | Optimization 3 (20 epochs) | 0.5608| 0.7272 |
 | Optimization 3 (100 epochs) | 0.5578| 0.7266 |
+| Optimization 4 | 0.5559| 0.7252 |
+| Optimization 5 | 0.5571| 0.7297 |
